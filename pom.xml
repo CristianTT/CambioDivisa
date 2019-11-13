@@ -6,6 +6,7 @@
 	<artifactId>CambioDivisa</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>CambioDivisa</name>
+	<exec.mainClass>dad.javafx.Main</exec.mainClass>
 	<!-- Versión del jdk de Java -->
 	<properties>
 		<maven.compiler.target>11</maven.compiler.target>
